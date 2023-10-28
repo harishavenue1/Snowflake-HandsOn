@@ -5,7 +5,11 @@
  ![image](https://github.com/harishavenue1/Snowflake-HandsOn/assets/21108205/3ef4cced-667b-4c74-aa62-549656c3b8cd)
 3) Create Schema Under Database
  ![image](https://github.com/harishavenue1/Snowflake-HandsOn/assets/21108205/9b816588-f92c-441c-b963-b0aaafea709f)
-4) Create Table Under Schema
+4) Select Create Table Option Under Schema to Open a Worksheet
  ![image](https://github.com/harishavenue1/Snowflake-HandsOn/assets/21108205/4cf7a30f-e579-4864-abee-ed6154214e8c)
-
-Proceed Further as Scripted under -> https://github.com/harishavenue1/Snowflake-HandsOn
+5) Create a Stage to Connect with AWS/Cloud to Access Data
+6) Create a File Format with properties to read 
+7) Create Tables for Every File to be read on S3
+8) Copy Data from S3 to SnowFlake (Ref: Instacart_Data_Create.md)
+9) Create Fact & Dimension tables from the Original Tables Created in the previous step (Ref: Instacart_DimFact_Create.md)
+10) Run Analytical Queries as per requirements (Ref: Instacart_Analytics.md)
