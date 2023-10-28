@@ -13,3 +13,4 @@
 8) Copy Data from S3 to SnowFlake (Ref: Instacart_Data_Create.md)
 9) Create Fact & Dimension tables from the Original Tables Created in the previous step (Ref: Instacart_DimFact_Create.md)
 10) Run Analytical Queries as per requirements (Ref: Instacart_Analytics.md)
+![image](https://github.com/harishavenue1/Snowflake-HandsOn/assets/21108205/231b1e0c-1ff9-4c37-92b2-51e7bd3be229)
